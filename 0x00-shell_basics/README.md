@@ -1,1 +1,1 @@
- a non empty README
+0x00 shell basics
