@@ -1,1 +1,1 @@
-readme
+script that prints "Hello, World"
